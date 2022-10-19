@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.humanize',
 
     'task.apps.TaskConfig',
+    'accounts.apps.AccountsConfig',
 ]
 
 MIDDLEWARE = [
