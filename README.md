@@ -1,2 +1,10 @@
 # Django-CBV-Todo-app
-Django Todo app(CBV)
+
+Todo app with class based view
+
+**Features**
+
+-   CRUD funtionality
+-   User authentication
+
+![ Demo ](./demo.PNG)
